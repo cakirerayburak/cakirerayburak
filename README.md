@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eray Burak</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cakirerayburak&label=Profile%20views&color=0e75b6&style=flat" alt="cakirerayburak" /> </p>
+
 - 🔭 I’m currently working **on in artificial intelligence and image processing**
 
 - 💬 Ask me about **Computer Vision**
