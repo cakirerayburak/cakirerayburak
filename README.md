@@ -76,4 +76,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/cakirerayburak/cakirerayburak/output/snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/cakirerayburak/cakirerayburak/output/snake.svg?v=2" alt="Snake animation" width="100%" />
